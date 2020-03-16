@@ -1,0 +1,36 @@
+{
+  "groomings": [
+    {
+      "id": 1,
+      "name": "Neil Armstrong",
+      "cleanliness": 3,
+      "nation": "USA",
+      "date": 1,
+      "confirmed": true
+    },
+    {
+      "id": 2,
+      "name": "Buzz Aldrin",
+      "cleanliness": 5,
+      "nation": "USA",
+      "date": 1,
+      "confirmed": true
+    },
+    {
+      "name": "Sam",
+      "nation": "UK",
+      "cleanliness": "3",
+      "date": "2020-03-19",
+      "id": 3,
+      "confirmed": true
+    },
+    {
+      "name": "John",
+      "nation": "USA",
+      "cleanliness": "1",
+      "date": "2020-03-17",
+      "id": 4,
+      "confirmed": true
+    }
+  ]
+}
